@@ -14,7 +14,7 @@ care system with embedded software for elder who lives alone
 
 ## 개발환경
 | <center>Language</center> | <center>FrameWork</center> | <center>Tool</center> |
-|:--------|:--------:|--------:|
+|:--------:|:--------:|:--------:|
 | C, Python | OpenCV, SMTPlib | Raspbian, Visual Studio 2015, Visual Studio Code, Arduino IDE |
 
 # 기능
