@@ -20,6 +20,9 @@ care system with embedded software for elder who lives alone
 # HW 구성도
 ![hw 구성도](https://user-images.githubusercontent.com/48172859/70374833-906bc180-193a-11ea-8394-1b4911822483.png)
 
+# SW 알고리즘 흐름도
+![sw 알고리즘](https://user-images.githubusercontent.com/48172859/70374856-db85d480-193a-11ea-81f1-a5ce261c3b71.png)
+
 # 기능
 ## 스마트 지팡이
 
