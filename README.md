@@ -17,6 +17,9 @@ care system with embedded software for elder who lives alone
 |:--------:|:--------:|:--------:|
 | C, Python | OpenCV, SMTPlib | Raspbian, Visual Studio 2015, Visual Studio Code, Arduino IDE |
 
+# HW 구성도
+![hw 구성도](https://user-images.githubusercontent.com/48172859/70374833-906bc180-193a-11ea-8394-1b4911822483.png)
+
 # 기능
 ## 스마트 지팡이
 
