@@ -26,7 +26,7 @@ care system with embedded software for elder who lives alone
 # 기능
 ## 스마트 지팡이
 
-- [체온 감지 기능](https://github.com/artiiicy/Care_system_for_elder/체온감지기능)
+- [체온 감지 기능](https://github.com/artiiicy/Care_system_for_elder/blob/master/README.md/체온감지기능)
 
 - [쓰러짐 감지 기능](https://github.com/artiiicy/Care_system_for_elder/쓰러짐감지기능)
 
