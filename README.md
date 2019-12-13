@@ -35,3 +35,5 @@ care system with embedded software for elder who lives alone
 ## 스마트 카메라
 
 - [고독사 감지 기능](https://github.com/artiiicy/Care_system_for_elder/고독사감지기능)
+
+--
