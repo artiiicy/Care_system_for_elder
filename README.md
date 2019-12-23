@@ -30,7 +30,7 @@ care system with embedded software for elder who lives alone
 
 - [쓰러짐 감지 기능](https://github.com/artiiicy/Care_system_for_elder#%EC%93%B0%EB%9F%AC%EC%A7%90-%EA%B0%90%EC%A7%80-%EA%B8%B0%EB%8A%A5)
 
-- [안심 귀가 서비스](https://github.com/artiiicy/Dictionary_using_IDF/blob/master/README.md#안심귀가서비스)
+- [안심 귀가 서비스](https://github.com/artiiicy/Care_system_for_elder#%EC%93%B0%EB%9F%AC%EC%A7%90-%EA%B0%90%EC%A7%80-%EA%B8%B0%EB%8A%A5)
 
 ## 스마트 카메라
 
